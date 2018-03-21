@@ -1,0 +1,29 @@
+{
+    "name": "fratily/http-message-factory",
+    "type": "library",
+    "keywords": [
+        "fratily",
+        "psr-7",
+        "psr-17",
+        "http-message",
+        "http-factory"
+    ],
+    "authors": [
+        {
+            "name": "Kento Oka",
+            "email": "kento.oka@kentoka.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0",
+        "psr/http-message": "^1.0",
+        "http-interop/http-factory": "^0.3.0",
+        "fratily/http-message": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fratily\\Http\\Message\\": "src/"
+        }
+    }
+}
