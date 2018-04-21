@@ -13,6 +13,10 @@
  */
 namespace Fratily\Http\Factory;
 
+use Fratily\Http\Message\{
+    ServerRequest,
+    UploadedFile
+};
 use Interop\Http\Factory\{
     ServerRequestFactoryInterface,
     UploadedFileFactoryInterface

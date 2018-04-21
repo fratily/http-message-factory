@@ -13,6 +13,7 @@
  */
 namespace Fratily\Http\Factory;
 
+use Fratily\Http\Message\Response;
 use Interop\Http\Factory\ResponseFactoryInterface;
 
 /**

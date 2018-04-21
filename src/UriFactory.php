@@ -13,6 +13,7 @@
  */
 namespace Fratily\Http\Factory;
 
+use Fratily\Http\Message\Uri;
 use Interop\Http\Factory\UriFactoryInterface;
 
 /**

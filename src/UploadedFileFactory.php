@@ -13,6 +13,7 @@
  */
 namespace Fratily\Http\Factory;
 
+use Fratily\Http\Message\UploadedFile;
 use Interop\Http\Factory\UploadedFileFactoryInterface;
 
 /**

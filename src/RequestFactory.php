@@ -13,6 +13,10 @@
  */
 namespace Fratily\Http\Factory;
 
+use Fratily\Http\Message\{
+    Request,
+    Uri
+};
 use Interop\Http\Factory\RequestFactoryInterface;
 use Psr\Http\Message\UriInterface;
 

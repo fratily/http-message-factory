@@ -13,6 +13,7 @@
  */
 namespace Fratily\Http\Factory;
 
+use Fratily\Http\Message\Stream;
 use Interop\Http\Factory\StreamFactoryInterface;
 
 /**
