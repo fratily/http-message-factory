@@ -11,7 +11,7 @@
  * @license     MIT
  * @since       1.0.0
  */
-namespace Fratily\Http\Message;
+namespace Fratily\Http\Factory;
 
 use Interop\Http\Factory\UriFactoryInterface;
 

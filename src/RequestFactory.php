@@ -11,13 +11,13 @@
  * @license     MIT
  * @since       1.0.0
  */
-namespace Fratily\Http\Message;
+namespace Fratily\Http\Factory;
 
 use Interop\Http\Factory\RequestFactoryInterface;
 use Psr\Http\Message\UriInterface;
 
 /**
- * 
+ *
  */
 class RequestFactory implements RequestFactoryInterface{
 
